@@ -1,0 +1,19 @@
+package exception;
+
+public class FinallyExample1 {
+
+	public static void main(String[] args) {
+		
+		try
+		{
+			System.out.println("Opening connections");
+			int i = 10/0;
+			System.out.println(i);
+			System.out.println("Closing Connections in try block");
+		}
+		catch (NullPointerException e) 
+		{
+			System.out.println("Closing Connections in Catch block");
+		}
+	}
+}

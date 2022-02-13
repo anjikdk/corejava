@@ -1,0 +1,23 @@
+package oops;
+
+public class CompileTimePolymorphismExample
+{
+
+	public static void main(String[] args) {
+		
+		CompileTimePolymorphismExample obj = new CompileTimePolymorphismExample();
+		
+		obj.login("abc", "xyz");
+		
+	}
+	
+	public void login(String uname, String pwd)
+	{
+		
+	}
+	
+	public void login(String uname, String pwd, String type)
+	{
+		
+	}
+}

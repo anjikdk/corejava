@@ -1,0 +1,16 @@
+package exception;
+
+public class IndexOutofBoundExceptionExample {
+
+	public static void main(String[] args) {
+		
+		System.out.println("main method start");
+		String s = "Bangalore";
+		
+		char c = s.charAt(30);
+		System.out.println(c);
+		
+		System.out.println("main method end");
+		
+	}
+}

@@ -1,0 +1,14 @@
+package oops.abstraction;
+
+public class Test1 extends Test
+{
+
+	@Override
+	public void add(int i, int j) {
+		
+		int k = i+j;
+		System.out.println(k);
+		
+	}
+	
+}

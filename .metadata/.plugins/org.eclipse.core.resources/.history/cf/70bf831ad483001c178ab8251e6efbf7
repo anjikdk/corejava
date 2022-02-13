@@ -1,0 +1,14 @@
+package com;
+
+import app.Test;
+
+public class Test2 {
+
+	System.out.println("main");
+	
+	Test.test();
+	
+	Test obj = new Test();
+	
+	System.out.println(Test.i);
+}

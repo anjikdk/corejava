@@ -1,0 +1,19 @@
+package application;
+
+public class ReverseSentense
+{
+	// Bangalore
+	public String reverse(String s)
+	{
+		String str = "";
+	
+		for(int i=s.length(); i>0; i++)
+		{
+			char c = s.charAt(i);
+			
+			str.concat(""+c);
+		}
+		
+		return str;
+	}
+}

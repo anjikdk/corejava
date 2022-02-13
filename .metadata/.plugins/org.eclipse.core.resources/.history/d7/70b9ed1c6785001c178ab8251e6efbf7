@@ -1,0 +1,8 @@
+package oops.abstraction;
+
+public class Test7 implements Test4
+{
+
+	
+	
+}

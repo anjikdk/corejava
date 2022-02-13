@@ -1,0 +1,6 @@
+package oops.abstraction;
+
+public abstract class Test {
+
+	public void add(int i, int j);
+}

@@ -1,0 +1,11 @@
+package oops.abstraction;
+
+interface Test5
+{
+	
+}
+
+public interface Test4 
+{
+
+}

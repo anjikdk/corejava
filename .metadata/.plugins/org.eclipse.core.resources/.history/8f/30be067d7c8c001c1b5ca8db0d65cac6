@@ -1,0 +1,30 @@
+package exception;
+
+public class TryWithMultipleCatchExample {
+
+	public static void main(String[] args) {
+		
+		String str = null;
+		try
+		{
+			// Here i am writing some logic
+			
+			int i = 10;
+			int j = 5;
+			
+			int k = i/j;
+			System.out.println(k);
+			
+			int len = str.length();
+			System.out.println(len);
+			
+		}
+		catch (ArithmeticException e) {
+			
+			e.printStackTrace();
+		}
+		catch (NullPointerException e) {
+			e.printStackTrace();
+		}
+	}
+}

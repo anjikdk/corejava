@@ -1,0 +1,12 @@
+package exception;
+
+public class NumberFormatExceptionExample {
+
+	public static void main(String[] args) {
+		
+		String age = "15a";
+		
+		int age1 = Integer.parseInt(age);
+		System.out.println(age1);
+	}
+}

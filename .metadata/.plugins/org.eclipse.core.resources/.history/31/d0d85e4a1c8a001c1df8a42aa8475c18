@@ -1,0 +1,25 @@
+package exception;
+
+public class ExceptionExample {
+
+	public static void main(String[] args) {
+
+		System.out.println("main method start...");
+
+		Error
+		try
+		{
+			int i = 10/0; // ArithmeticException
+			System.out.println(i);
+		}
+		catch (ArithmeticException e) {
+
+			e.printStackTrace();
+		}
+
+		System.out.println("main method end...");
+		System.out.println("main method end...");
+		System.out.println("main method end...");
+		System.out.println("main method end...");
+	}
+}

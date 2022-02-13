@@ -1,0 +1,10 @@
+package oops;
+
+public class Calculator {
+
+	public void add(int i, int j)
+	{
+		int k = i+j;
+		System.out.println(k);
+	}
+}

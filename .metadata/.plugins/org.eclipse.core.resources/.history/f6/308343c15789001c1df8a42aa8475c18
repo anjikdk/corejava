@@ -1,0 +1,20 @@
+package string;
+
+public class StringLiteralExample {
+
+	public static void main(String[] args) {
+		
+		String s = "Bangalore"; // Stringpool
+		
+		String s1 = "Bangalore";
+		
+		System.out.println(s == s1); // true
+		
+		String s2 = new String("Bangalore");
+		
+		System.out.println(s == s2);
+		
+		
+		
+	}
+}

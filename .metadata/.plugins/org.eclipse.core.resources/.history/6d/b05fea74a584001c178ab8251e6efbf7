@@ -1,0 +1,7 @@
+package oops.abstraction;
+
+public interface Test2 {
+
+	public abstract void test();
+	
+}

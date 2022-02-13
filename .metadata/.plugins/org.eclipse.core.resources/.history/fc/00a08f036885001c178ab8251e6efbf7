@@ -1,0 +1,9 @@
+package comments;
+
+public class CommentsExample 
+{
+	// This is a main method
+	public static void main(String[] args) {
+		
+	}
+}

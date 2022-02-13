@@ -1,0 +1,12 @@
+package oops;
+
+public class EncapsulationExample {
+
+	private String name;
+	private int age;
+	private int phone;
+	private String mail;
+	private String address;
+	
+	
+}

@@ -1,0 +1,20 @@
+package exception;
+
+public class NullpointerExceptionExample {
+
+	public static void main(String[] args) {
+
+		System.out.println("main method start");
+		String s = null;
+		try {
+			int k = s.length();
+			System.out.println(k);
+		}
+		catch (NullPointerException e) {
+			e.printStackTrace();
+		}
+
+
+		System.out.println("main method end");
+	}
+}

@@ -1,0 +1,9 @@
+package oops;
+
+public class Bengaluru extends Cities
+{
+	public void getBangaloreCityName()
+	{
+		System.out.println("Bengaluru");
+	}
+}

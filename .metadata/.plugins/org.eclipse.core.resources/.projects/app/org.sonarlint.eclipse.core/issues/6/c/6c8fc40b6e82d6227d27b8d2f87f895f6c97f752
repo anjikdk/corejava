@@ -1,0 +1,22 @@
+
+p
+java:S1197-"8Move the array designator from the variable to the type.(›åüâıÿÿÿÿ8èëä–ì/HÚRMINORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(Å¨°à8§ûå–ì/HİRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œËãı8Äï¨–ì/H¹RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Áƒûşÿÿÿÿ8±íº–ì/H½RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8–ğ–ì/H¶RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(éÜìÉ8ˆ¢ –ì/H·RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­şìù8Äï¨–ì/H¸RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(«‹Îõ8èÚÙ–ì/HÓRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8ÁĞ–ì/HÉRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.( Ş·â8ó¯¾–ì/H¾RMAJORZ
+CODE_SMELL

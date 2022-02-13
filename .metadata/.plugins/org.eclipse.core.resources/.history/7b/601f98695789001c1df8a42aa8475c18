@@ -1,0 +1,12 @@
+package string;
+
+public class StringLiteralExample {
+
+	public static void main(String[] args) {
+		
+		String s = "Bangalore"; // Stringpooling
+		
+		
+		
+	}
+}

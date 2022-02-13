@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="app.Test"/>
+    <fullyQualifiedTypeName name="com.Test2"/>
+    <fullyQualifiedTypeName name="oops.Calculator"/>
+    <fullyQualifiedTypeName name="oops.ArithmeticOperator"/>
+    <fullyQualifiedTypeName name="oops.Addition"/>
+    <fullyQualifiedTypeName name="oops.CompileTimePolymorphismExample"/>
+    <fullyQualifiedTypeName name="oops.Cities"/>
+    <fullyQualifiedTypeName name="oops.Bengaluru"/>
+    <fullyQualifiedTypeName name="oops.Parent"/>
+    <fullyQualifiedTypeName name="oops.Child"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

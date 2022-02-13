@@ -1,0 +1,17 @@
+package stringbuilder;
+
+public class StringBuilderExample {
+
+	public static void main(String[] args) {
+		
+		StringBuilder sb = new StringBuilder();
+		
+		// concat
+		
+		sb.append("Rakesh");
+		sb.append(" Raj");
+		
+		System.out.println(bo);
+		
+	}
+}

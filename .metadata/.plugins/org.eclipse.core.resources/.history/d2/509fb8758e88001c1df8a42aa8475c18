@@ -1,0 +1,19 @@
+package string;
+
+public class StringExample1 {
+
+	public static void main(String[] args) {
+		
+		String fname = "      Rakesh  Raj     ";
+		System.out.println(fname);
+		
+		fname = fname.trim();
+		System.out.println(fname);
+		
+		
+		String str = "HydBlr";
+		String sub = str.substring(3);
+		System.out.println(sub);
+		
+	}
+}

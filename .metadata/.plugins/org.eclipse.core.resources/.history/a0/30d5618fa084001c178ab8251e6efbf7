@@ -1,0 +1,13 @@
+package oops;
+
+public class DownCastingExample {
+
+	public static void main(String[] args) {
+		
+		int i = 10;
+		
+		short s = i;
+		
+		System.out.println(s);
+	}
+}

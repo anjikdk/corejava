@@ -1,0 +1,16 @@
+package string;
+
+public class StringExample {
+
+	public static void main(String[] args) {
+		
+		String s = new String("Chennai");
+		
+		int count = s.length();
+		System.out.println(count);
+		
+		
+		
+		
+	}
+}

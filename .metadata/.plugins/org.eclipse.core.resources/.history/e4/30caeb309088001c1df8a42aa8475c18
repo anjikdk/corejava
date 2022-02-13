@@ -1,0 +1,42 @@
+package string;
+
+public class StringExample1 {
+
+	public static void main(String[] args) {
+		
+		String fname = "      Rakesh  Raj     ";
+		System.out.println(fname);
+		
+		fname = fname.trim();
+		System.out.println(fname);
+		
+		
+		String str = "HydBlr";
+		String sub = str.substring(1);
+		System.out.println(sub);
+		
+		
+		String str1 = "RajeshsRajesh";
+		int i = str1.indexOf('s');
+		System.out.println(i);
+		
+		int j = str1.lastIndexOf('s');
+		System.out.println(j);
+		
+		System.out.println("===============");
+		for(int k=0; k<str1.length(); k++)
+		{
+			if(str1.charAt(k) == 's')
+			{
+				System.out.println(k);
+			}
+		}
+		
+//		Blr
+//		blr
+		
+		String str2 = "Rajesh";
+		str2.compa
+		
+	}
+}

@@ -1,0 +1,13 @@
+package oops;
+
+public class Bengaluru extends Cities
+{
+	public static void main(String[] args) {
+		
+		Bengaluru obj = new Bengaluru();
+		
+		obj.getBangaloreCityName();
+	}
+	
+	
+}

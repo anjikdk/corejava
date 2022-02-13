@@ -1,0 +1,14 @@
+package oops;
+
+public class Addition extends Calculator
+{
+	public static void main(String[] args) {
+		
+		Addition obj = new Addition();
+		
+		obj.add(10, 50);
+		
+		obj.sub(10, 50);
+		
+	}
+}

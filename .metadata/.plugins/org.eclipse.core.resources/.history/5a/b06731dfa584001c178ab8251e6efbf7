@@ -1,0 +1,6 @@
+package oops.abstraction;
+
+public class Test3 extends Test2
+{
+	
+}
