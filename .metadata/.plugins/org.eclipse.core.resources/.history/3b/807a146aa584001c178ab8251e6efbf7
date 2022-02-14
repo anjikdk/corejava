@@ -1,7 +1,0 @@
-package oops.abstraction;
-
-public interface Test2 {
-
-	public abstarct void test();
-	
-}

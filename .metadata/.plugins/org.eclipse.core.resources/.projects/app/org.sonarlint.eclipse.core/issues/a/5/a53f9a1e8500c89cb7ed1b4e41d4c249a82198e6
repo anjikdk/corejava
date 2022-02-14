@@ -1,23 +1,0 @@
-
-n
-java:S1854"7Remove this useless assignment to local variable "obj".(ƒĞŠÄÿÿÿÿÿ8äìüÂë/H*RMAJORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(—ÿåÕÿÿÿÿÿ8äìüÂë/H,RMAJORZ
-CODE_SMELL
-b
-java:S3252"-Use static access with "app.Test" for "test".(ÛÉÇ¢8ª—­Ãë/HMRCRITICALZ
-CODE_SMELL
-‡
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(èô¾¬ÿÿÿÿÿ8 ¿·Ãë/HXRMINORZ
-CODE_SMELL
-_
-java:S1481"(Remove this unused "obj" local variable.(ƒĞŠÄÿÿÿÿÿ8äìüÂë/H-RMINORZ
-CODE_SMELL
-d
-java:S3252"*Use static access with "app.Test" for "i".(—ÿåÕÿÿÿÿÿ8ª—­Ãë/HNRCRITICALZ
-CODE_SMELL
-a
-java:S1444"*Make this "public static name" field final(èô¾¬ÿÿÿÿÿ8 ¿·Ãë/HWRMINORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ8äìüÂë/H+RMAJORZ
-CODE_SMELL

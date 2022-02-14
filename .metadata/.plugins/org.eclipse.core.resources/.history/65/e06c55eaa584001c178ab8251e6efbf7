@@ -1,6 +1,0 @@
-package oops.abstraction;
-
-public class Test3 implements Test2
-{
-	
-}

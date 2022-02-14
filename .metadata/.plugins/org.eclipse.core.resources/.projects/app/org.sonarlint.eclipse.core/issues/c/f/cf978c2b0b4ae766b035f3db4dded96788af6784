@@ -1,11 +1,0 @@
-
-_
-java:S1481"(Remove this unused "obj" local variable.(ƒĞŠÄÿÿÿÿÿ8å¥ïÂë/HRMINORZ
-CODE_SMELL
-n
-java:S1854"7Remove this useless assignment to local variable "obj".(ƒĞŠÄÿÿÿÿÿ8å¥ïÂë/HRMAJORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(©ü€Åùÿÿÿÿ8ãØêÂë/HRMAJORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ8Æá¦›ë/HRMAJORZ
-CODE_SMELL

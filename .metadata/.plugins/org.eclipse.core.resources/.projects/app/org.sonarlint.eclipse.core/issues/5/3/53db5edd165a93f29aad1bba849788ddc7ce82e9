@@ -1,23 +1,0 @@
-
-j	java:S106!"9Replace this use of System.out or System.err by a logger.(ëôßÊ8ËÜ–›ë/HRMAJORZ
-CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(øî²Ã8¡ÿ•›ë/HRMAJORZ
-CODE_SMELL
-
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ËÜ–›ë/H
-RMAJORZ
-CODE_SMELL
-„
-java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(¤Ãõ™úÿÿÿÿ8¹´—Ãë/HERMINORZ
-CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(¨ã²¨8±”›ë/HRMAJORZ
-CODE_SMELL
-o	java:S106	"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ8ËÜ–›ë/H	RMAJORZ
-CODE_SMELL
-^
-java:S1444"'Make this "public static i" field final(¤Ãõ™úÿÿÿÿ8¹´—Ãë/HDRMINORZ
-CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8Ö¯“›ë/HRMAJORZ
-CODE_SMELL
-i	java:S106&"9Replace this use of System.out or System.err by a logger.(Üâœ8¡ÿ•›ë/HRMAJORZ
-CODE_SMELL
